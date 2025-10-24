@@ -6,3 +6,7 @@ body {
 .text {
     color: white;
 }
+
+.card {
+    background-color: yellow;
+}
